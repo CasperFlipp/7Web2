@@ -1,0 +1,13 @@
+body {
+    
+    border: 1px solid black;
+    background-color: bisque;
+}
+
+.city {
+    background-color:darksalmon;
+    color:seashell;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+  }
